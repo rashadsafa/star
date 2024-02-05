@@ -17,4 +17,13 @@ body {
   position: absolute;
   left: 440px;
   top: 230px;
+}
+
+#green {
+  padding: 50px;
+}
+#green .minibox {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #ff00ff;
 }/*# sourceMappingURL=style.css.map */

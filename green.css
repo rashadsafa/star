@@ -1,0 +1,9 @@
+#green {
+  padding: 50px;
+}
+#green .minibox {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #ff0000;
+  background-color: #ffff00;
+}/*# sourceMappingURL=green.css.map */
