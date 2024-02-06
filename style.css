@@ -3,6 +3,9 @@ body {
   font-weight: 500;
 }
 
+#blue {
+  padding: 50px;
+}
 #blue .minibox {
   position: relative;
   width: 100px;
@@ -16,7 +19,7 @@ body {
 #blue .box3 {
   position: absolute;
   left: 440px;
-  top: 230px;
+  top: 280px;
 }
 
 #green .minibox {
@@ -32,12 +35,12 @@ body {
 #green .box1 {
   position: absolute;
   left: 450px;
-  top: 460px;
+  top: 550px;
 }
 #green .box3 {
   position: absolute;
   left: 450px;
-  top: 570px;
+  top: 660px;
 }
 
 #purple {
